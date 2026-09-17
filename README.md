@@ -8,7 +8,7 @@ I'm a **junior full-stack web developer** with a background in **Physical Chemis
 
 After completing a PhD and working in a technical and scientific environment, I decided to transition into web development. I combine my **analytical mindset, problem-solving skills and project management experience** with my new technical skills to build web applications and solve concrete problems.
 
-🎯 **Currently looking for a junior web developer position** where I can contribute to real-world projects, keep learning and grow as a developer.
+🎯 **Currently looking for a web developer position** where I can contribute to real-world projects, keep learning and grow as a developer.
 
 📍 Bordeaux, France
 
