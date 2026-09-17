@@ -138,7 +138,7 @@ Today, I use this experience in a different context: **building web applications
 
 ## 🎯 Looking for my next opportunity
 
-I'm currently looking for a **junior web developer position** where I can:
+I'm currently looking for a **web developer position** where I can:
 
 * contribute to real-world projects
 * work alongside experienced developers
