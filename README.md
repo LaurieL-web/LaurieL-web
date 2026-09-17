@@ -162,6 +162,6 @@ I'm always happy to connect with developers, recruiters and people working on in
 
 ---
 
-🇫🇷 *French developer based in Bordeaux, France, currently looking for a junior web developer opportunity.*
+🇫🇷 *French developer based in Bordeaux, France, currently looking for a web developer opportunity.*
 
 ⭐ **Thanks for visiting my profile!**
