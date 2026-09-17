@@ -21,7 +21,6 @@ After completing a PhD and working in a technical and scientific environment, I 
 * 🧩 Background in **scientific research, project management and technical problem solving**
 * 🤝 Experienced in collaborative projects
 * 🧠 Analytical, rigorous and curious
-* 📚 Currently learning **Java**
 
 My scientific background taught me how to approach complex problems, manage priorities and deadlines, communicate clearly and learn independently.
 
