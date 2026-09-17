@@ -83,11 +83,11 @@ Developed as part of a **4-person team** during my Le Wagon web development trai
 
 ---
 
-### 🏃 [RaceBuddy — Connecting Runners](https://github.com/LaurieL-web/RaceBuddy)
+### 🏃 [RaceBuddy — Runner Matching & Race Prep Platform](https://github.com/LaurieL-web/RaceBuddy)
 
-A web application designed to **connect runners and help them find running partners**.
+A web application designed to **connect runners based on their training goals, enabling them to share race preparations, coordinate runs, and stay motivated together**.
 
-Developed collaboratively during my web development training.
+Developed as part of a **4-person team** during my Le Wagon web development training.
 
 **My contributions included:**
 
