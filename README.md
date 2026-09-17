@@ -130,7 +130,6 @@ Today, I use this experience in a different context: **building web applications
 
 ## 🌱 Currently learning
 
-* ☕ Java
 * 💻 Improving my full-stack development skills
 * 🤖 Exploring AI integration in web applications
 * 🚀 Building new projects to strengthen my technical skills
