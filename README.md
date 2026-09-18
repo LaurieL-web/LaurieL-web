@@ -77,7 +77,7 @@ Developed as part of a **4-person team** during my Le Wagon web development trai
 * 🚀 Implementation of features from concept to working application
 
 **Tech stack:**
-`Ruby on Rails` `JavaScript` `HTML` `CSS` `Bootstrap` `SQL` `Turbo` `Git/GitHub`
+`Ruby on Rails` `JavaScript` `HTML` `CSS` `Bootstrap` `PostgreSQL` `Turbo` `Git/GitHub`
 
 👉 **[View the project on GitHub](https://github.com/LaurieL-web/rundy)**
 
