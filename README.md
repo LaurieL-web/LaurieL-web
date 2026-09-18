@@ -98,7 +98,7 @@ Developed as part of a **4-person team** during my Le Wagon web development trai
 * 🎯 Building features around a concrete user need
 
 **Tech stack:**
-`Ruby on Rails` `JavaScript` `HTML` `CSS` `Bootstrap` `SQL` `Turbo` `Git/GitHub`
+`Ruby on Rails` `JavaScript` `HTML` `CSS` `Bootstrap` `PostgreSQL` `Turbo` `Git/GitHub`
 
 👉 **[View the project on GitHub](https://github.com/LaurieL-web/RaceBuddy)**
 
