@@ -44,7 +44,7 @@ I'm now applying these skills to software development.
 <p>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Ruby on Rails">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
@@ -77,7 +77,7 @@ Developed as part of a **4-person team** during my Le Wagon web development trai
 * 🚀 Implementation of features from concept to working application
 
 **Tech stack:**
-`Ruby on Rails` `JavaScript` `HTML` `CSS` `Bootstrap` `PostgreSQL` `Turbo` `Git/GitHub`
+`Ruby on Rails` `JavaScript` `HTML` `CSS` `Bootstrap` `SQL` `Turbo` `Git/GitHub`
 
 👉 **[View the project on GitHub](https://github.com/LaurieL-web/rundy)**
 
