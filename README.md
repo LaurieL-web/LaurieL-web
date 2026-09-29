@@ -64,7 +64,7 @@ I'm now applying these skills to software development.
 
 ### 🎙️ [Des Fourmis dans les Jambes — Podcast Website](https://github.com/LaurieL-web/des-fourmis-dans-les-jambes)
 
-A web application designed to **present and promote the [Des Fourmis dans les Jambes podcast](https://www.instagram.com/desfourmisdanslesjambes/)**, a series of conversations in movement about sport, motivation, challenges and what movement brings to everyday life.
+A web application designed to **present and promote the [Des Fourmis dans les Jambes](https://www.instagram.com/desfourmisdanslesjambes/) podcast**, a series of conversations in movement about sport, motivation, challenges and what movement brings to everyday life.
 
 **My contributions included:**
 
