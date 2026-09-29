@@ -90,8 +90,11 @@ Developed in just one week as part of a **4-person team** during my Le Wagon web
 **My contributions included:**
 
 🤖 AI Training Plan Generation: Built the core logic to prompt and stream personalized running plans using LLM integration.
+
 📝 Goal Creation Flow: Developed the user onboarding form (front & back) to capture race distance, target time, preparation duration and training frequency.
+
 📊 Program Dashboard: Designed and implemented the "Mon Programme" (My Training Plan) page (front & back).
+
 🤝 Git Workflow: Coordinated code integration, feature branches, and PR reviews within a 4-person team.
 
 **Tech stack:**
@@ -110,9 +113,13 @@ Developed in 2 weeks as part of a **4-person team** during my Le Wagon web devel
 **My contributions included:**
 
 💬 Real-Time Chat System (Full-Stack): Built the end-to-end messaging feature, including chat history, message CRUD operations, modal components, and live updates powered by Turbo Streams.
+
 🔍 Buddy Recommendation Engine: Developed backend logic and frontend components to match and display compatible running partners based on user profiles.
+
 🏃 Race Search & Management: Handled backend logic for searching and creating races, connecting user goals to specific events.
+
 🔐 Authentication & Core Pages: Implemented user authentication, home page backend, and UI components across key application views.
+
 🤝 Git & Team Workflow: Managed feature branches, PR reviews, and code integration within a collaborative team environment.
 
 **Tech stack:**
