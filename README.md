@@ -16,8 +16,8 @@ My interest in programming started during my Master's and PhD in Physical Chemis
 
 ## 🚀 About me
 
-* 🔬 PhD in **Physical Chemistry** — University of Bordeaux
 * 💻 **Full-Stack Web Development** — Le Wagon
+* 🔬 PhD in **Physical Chemistry** — University of Bordeaux
 * 🧩 Background in **scientific research, project management and technical problem solving**
 * 🤝 Experienced in collaborative projects
 * 🧠 Analytical, rigorous and curious
@@ -62,11 +62,30 @@ I'm now applying these skills to software development.
 
 ## 🌟 Featured Projects
 
+### 🎙️ [Des Fourmis dans les Jambes — Podcast Website](https://github.com/LaurieL-web/des-fourmis-dans-les-jambes)
+
+A web application designed to **present and promote the *Des Fourmis dans les Jambes* podcast**, a series of conversations in movement about sport, motivation, challenges and what movement brings to everyday life.
+
+**My contributions included:**
+
+* 💻 Full-stack web development
+* 🎨 Design and implementation of the user interface
+* 🧩 Development of the website structure and features
+* 📱 Responsive design for different screen sizes
+* 🔗 Integration of the podcast's content and external links
+* 🚀 Development of the project from concept to working website
+
+**Tech stack:**
+`Ruby on Rails` `JavaScript` `HTML` `CSS` `PostgreSQL` `Git/GitHub`
+
+👉 **[View the project on GitHub](https://github.com/LaurieL-web/des-fourmis-dans-les-jambes)**
+
+
 ### 🏃‍♀️ [Rundy — AI Running Plan Generator](https://github.com/LaurieL-web/rundy)
 
 A web application focused on **generating personalized running training plans with AI**.
 
-Developed as part of a **4-person team** during my Le Wagon web development training.
+Developed in just one week as part of a **4-person team** during my Le Wagon web development training.
 
 **My contributions included:**
 
@@ -87,7 +106,7 @@ Developed as part of a **4-person team** during my Le Wagon web development trai
 
 A web application designed to **connect runners based on their training goals, enabling them to share race preparations, coordinate runs, and stay motivated together**.
 
-Developed as part of a **4-person team** during my Le Wagon web development training.
+Developed in 2 weeks as part of a **4-person team** during my Le Wagon web development training.
 
 **My contributions included:**
 
