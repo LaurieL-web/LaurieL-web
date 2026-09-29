@@ -76,7 +76,7 @@ A web application designed to **present and promote the *Des Fourmis dans les Ja
 * 🚀 Development of the project from concept to working website
 
 **Tech stack:**
-`Ruby on Rails` `JavaScript` `HTML` `CSS` `PostgreSQL` `Git/GitHub`
+`Ruby on Rails` `HTML` `CSS` `PostgreSQL` `Git/GitHub`
 
 👉 **[View the project on GitHub](https://github.com/LaurieL-web/des-fourmis-dans-les-jambes)**
 
