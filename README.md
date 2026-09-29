@@ -89,11 +89,10 @@ Developed in just one week as part of a **4-person team** during my Le Wagon web
 
 **My contributions included:**
 
-* 💻 Application development
-* 🤖 Integration of AI-powered features
-* 🔗 Integration of the different parts of the application
-* 🤝 Collaborative development using Git & GitHub
-* 🚀 Implementation of features from concept to working application
+🤖 AI Training Plan Generation: Built the core logic to prompt and stream personalized running plans using LLM integration.
+📝 Goal Creation Flow: Developed the user onboarding form (front & back) to capture race distance, target time, preparation duration and training frequency.
+📊 Program Dashboard: Designed and implemented the "Mon Programme" (My Training Plan) page (front & back).
+🤝 Git Workflow: Coordinated code integration, feature branches, and PR reviews within a 4-person team.
 
 **Tech stack:**
 `Ruby on Rails` `JavaScript` `HTML` `CSS` `Bootstrap` `PostgreSQL` `Turbo` `Git/GitHub`
@@ -110,11 +109,11 @@ Developed in 2 weeks as part of a **4-person team** during my Le Wagon web devel
 
 **My contributions included:**
 
-* 💻 Application development
-* 🧩 Feature implementation
-* 🔗 Integration of different parts of the application
-* 🤝 Collaborative development and Git workflow
-* 🎯 Building features around a concrete user need
+💬 Real-Time Chat System (Full-Stack): Built the end-to-end messaging feature, including chat history, message CRUD operations, modal components, and live updates powered by Turbo Streams.
+🔍 Buddy Recommendation Engine: Developed backend logic and frontend components to match and display compatible running partners based on user profiles.
+🏃 Race Search & Management: Handled backend logic for searching and creating races, connecting user goals to specific events.
+🔐 Authentication & Core Pages: Implemented user authentication, home page backend, and UI components across key application views.
+🤝 Git & Team Workflow: Managed feature branches, PR reviews, and code integration within a collaborative team environment.
 
 **Tech stack:**
 `Ruby on Rails` `JavaScript` `HTML` `CSS` `Bootstrap` `PostgreSQL` `Turbo` `Git/GitHub`
