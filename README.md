@@ -6,7 +6,7 @@
 
 I'm a **junior full-stack web developer** with a background in **Physical Chemistry and scientific research**.
 
-After completing a PhD and working in a technical and scientific environment, I decided to transition into web development. I combine my **analytical mindset, problem-solving skills and project management experience** with my new technical skills to build web applications and solve concrete problems.
+My interest in programming started during my Master's and PhD in Physical Chemistry, where I used Python and Fortran to work on scientific problems. I particularly enjoyed the logic, technical challenges and problem-solving involved in coding, which led me to pursue web development and deepen my technical skills. Today, I combine my scientific analytical mindset and project management experience with my skills in Ruby on Rails and JavaScript to build practical web applications and solve concrete problems. I am particularly interested in integrating AI into modern web applications and continuing to grow technically within a stimulating team.
 
 🎯 **Currently looking for a web developer position** where I can contribute to real-world projects, keep learning and grow as a developer.
 
