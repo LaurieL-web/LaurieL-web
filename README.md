@@ -143,9 +143,7 @@ Developed in 2 weeks as part of a **4-person team** during my Le Wagon web devel
 
 ## 🔬 From Science to Code
 
-My transition from **scientific research to web development** is driven by the same things that attracted me to science in the first place:
-
-**curiosity, problem solving and continuous learning.**
+My transition from **scientific research to web development** is driven by the same things that attracted me to science in the first place: **curiosity, problem solving and continuous learning.**
 
 During my PhD, I worked on complex research projects, managed priorities and deadlines, analyzed results and communicated scientific concepts.
 
